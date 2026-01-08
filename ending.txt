@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+ the end --happy version
+=======
+ the end - sad version
+>>>>>>> sad
